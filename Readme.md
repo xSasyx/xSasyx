@@ -6,11 +6,10 @@
 
 <div align="center">
   <b>Benvenuto nel mio profilo</b> <br>
-  Sono Salvatore Parmendola, un giovane ragazzo ambizioso e appassionato di programmazione. Fin da quando ero bambino, ho avuto una forte affinità per la logica e la tecnologia. La mia mente si accendeva ogni volta che   entravo in contatto con un computer o qualsiasi altro dispositivo elettronico.<br> <br>
+  <i>Sono Salvatore Parmendola, un giovane ragazzo ambizioso e appassionato di programmazione. Fin da quando ero bambino, ho avuto una forte affinità per la logica e la tecnologia. La mia mente si accendeva ogni volta che   entravo in contatto con un computer o qualsiasi altro dispositivo elettronico.</i><br> <br>
 
-  Con il passare del tempo, la mia passione per la programmazione è cresciuta insieme a me e si è trasformata in una vera e propria vocazione. Ho dedicato moltissime ore allo studio e all'esplorazione dei diversi linguaggi di programmazione. Dal C e C++ ai più moderni Python, JavaScript e Java, ho imparato a padroneggiare una vasta gamma di strumenti di sviluppo software.<br> <br>
+  <i>Con il passare del tempo, la mia passione per la programmazione è cresciuta insieme a me e si è trasformata in una vera e propria vocazione. Ho dedicato moltissime ore allo studio e all'esplorazione dei diversi linguaggi di programmazione. Dal C e C++ ai più moderni Python, JavaScript e Java, ho imparato a padroneggiare una vasta gamma di strumenti di sviluppo software.</i><br> <br>
 
-  <i>Con il passare del tempo, la mia passione per la programmazione è cresciuta insieme a me e si è trasformata in una vera e propria vocazione. Ho dedicato moltissime ore allo studio e all'esplorazione dei diversi linguaggi di programmazione. Dal C e C++ ai più moderni Python, JavaScript e Java, ho imparato a padroneggiare una vasta gamma di strumenti di sviluppo software.
   
 </div>
 
