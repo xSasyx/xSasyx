@@ -33,5 +33,45 @@
     <img width="100px" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg">
     <img width="100px" src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg">
   </a>
-  
+  <div align="center">
+  <h1>Back-End</h1>
+  <a href="https://github.com/xSasyx">
+    <img width="100px" src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg">
+    <img width="100px" src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg">
+    <img width="100px" src="https://brandeps.com/logo-download/J/Java-logo-vector-01.svg">
+    <img width="100px" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg">
+    <img width="100px" src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg">
+    <img width="100px" src="https://brandeps.com/logo-download/P/Python-logo-vector-01.svg">
+    <img width="100px" src="https://brandeps.com/logo-download/C/C-logo-vector-01.svg">
+  </a>
+</div>
+
+  <div align="center">
+  <h1>Database</h1>
+  <a href="https://github.com/xSasyx">
+    <img width="100px" src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg">
+    <img width="100px" src="https://brandeps.com/logo-download/M/Microsoft-sql-server-logo-vector-01.svg">
+  </a>
+</div>
+
+  <div align="center">
+  <h1>Framework</h1>
+  <a href="https://github.com/xSasyx">
+    <img width="100px" src="https://brandeps.com/logo-download/M/Microsoft-Dotnet-logo-vector-01.svg">
+    <img width="100px" src="https://logodix.com/logo/1796965.png">
+    <img width="100px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png">
+    <img width="100px" src="https://raw.githubusercontent.com/tomchristie/uvicorn/master/docs/uvicorn.png">
+  </a>
+</div>
+
+ <h1>OS</h1>
+  <a href="https://github.com/xSasyx">
+    <img width="100px" src="https://brandeps.com/icon-download/M/Microsoft-windows-icon-vector-01.svg">
+    <img width="100px" src="https://brandeps.com/icon-download/L/Linux-icon-vector-02.svg">
+    <img width="100px" src="https://brandeps.com/logo-download/L/Linux-Mint-logo-vector-01.svg">
+    <img width="100px" src="https://brandeps.com/icon-download/L/Linux-ubuntu-icon-vector-01.svg">
+    <img width="100px" src="https://brandeps.com/logo-download/A/Arch-Linux-logo-vector-01.svg">
+    <img width="100px" src="https://www.kali.org/images/kali-dragon-icon.svg">
+    <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png?20090620221309">
+  </a>
 </div>
