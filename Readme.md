@@ -10,6 +10,9 @@
 
   <i>Con il passare del tempo, la mia passione per la programmazione è cresciuta insieme a me e si è trasformata in una vera e propria vocazione. Ho dedicato moltissime ore allo studio e all'esplorazione dei diversi linguaggi di programmazione. Dal C e C++ ai più moderni Python, JavaScript e Java, ho imparato a padroneggiare una vasta gamma di strumenti di sviluppo software.</i><br> <br>
 
+  <i>Nonostante il mio interesse per il mondo digitale, sono anche una persona socievole e collaborativa. Mi piace condividere le mie conoscenze con gli altri e partecipare a discussioni tecniche con colleghi e amici. Sono sempre alla ricerca di nuove sfide e di opportunità per imparare e crescere sia professionalmente che personalmente.</i>
+  
+  <i>Guardo al futuro con entusiasmo e determinazione, perché so di avere ancora tanto da imparare e da offrire. La programmazione è la mia passione e sono convinto che mi porterà verso nuove vette e opportunità straordinarie.</i>
   
 </div>
 
